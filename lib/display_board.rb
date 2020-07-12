@@ -5,5 +5,5 @@ def display_board(board)
   puts "-----------"
   puts "#{[1]}|#{[1]}|#{[1]}"
   puts "-----------"
-  puts "   |   |   "
+  puts "#{[1]}|   |   "
 end
