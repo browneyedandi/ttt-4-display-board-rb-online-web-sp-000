@@ -1,2 +1,2 @@
-def
+def display_board
 end
